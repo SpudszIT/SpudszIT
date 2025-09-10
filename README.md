@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpudszIT
-- 👀 I’m interested in Penetration Testing, Software Engineering
-- 🌱 I’m currently learning Python, & C 
+- 👀 I’m interested in Robotics, AI & Cybersecurity 
+- 🌱 I’m currently learning Java, & C++ 
 - 💞️ I’m looking to collaborate on anything hit me 
 - 📫 How to reach me Discord, Instagram, Reddit, X 
 
